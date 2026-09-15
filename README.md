@@ -1,5 +1,13 @@
 # Tipos de sistemas de informação
 
+## Definição de sistemas de informação;
+
+- é um conjunto organizado de pessoas, hardwares, softwares e processos que trabalham juntos para coletar, processar, armazenar e usar dados. O seu objetivo principal é transformar dados brutos em informações úteis para ajudar empresas e organizações a tomar decisões melhores.
+
+## Importância dos sistemas de informação nas organizações;
+
+-Os sistemas de informação (SI) coletam, processam, armazenam e distribuem dados para orientar decisões e tarefas. Eles elevam a eficiência, integram setores e garantem vantagem competitiva no mercado atual.
+
 ## Sistema de Processamento de Transação (SPT)
 
 - Atende diretamente o nível operacional da empresa, registrando atividades básicas do dia a dia.
