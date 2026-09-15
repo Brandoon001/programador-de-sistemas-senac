@@ -6,7 +6,7 @@
 
 ## Importância dos sistemas de informação nas organizações;
 
--Os sistemas de informação (SI) coletam, processam, armazenam e distribuem dados para orientar decisões e tarefas. Eles elevam a eficiência, integram setores e garantem vantagem competitiva no mercado atual.
+- Os sistemas de informação (SI) coletam, processam, armazenam e distribuem dados para orientar decisões e tarefas. Eles elevam a eficiência, integram setores e garantem vantagem competitiva no mercado atual.
 
 ## Sistema de Processamento de Transação (SPT)
 
